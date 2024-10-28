@@ -16,7 +16,13 @@ grand `Full Disk Accress` to Visual Studio Code
 ## CLI
 
 ```
-zip -src "path" -dst "path" {-cp932} {-password "password"} {-unzip} {-encryption zipcrypto|aes128|aes192|aes256} {-method deflate|store}
+zip -src "path.zip" \
+    -dst "path" \
+    -cp932 \
+    -password "password"\
+    -unzip \
+    -encryption zipcrypto \
+    -method deflate
 ```
 
 default values

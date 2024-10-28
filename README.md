@@ -1,4 +1,4 @@
-# golang-zip
+# legacy-zip
 
 ## objective
 

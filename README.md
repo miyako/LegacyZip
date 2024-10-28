@@ -1,5 +1,18 @@
 # legacy-zip
 
+## dependencies.json
+
+ ```json
+{
+	"dependencies": {
+		"legacy-zip": {
+			"github": "miyako/legacy-zip",
+			"version": "^1.0.0"
+		}
+	}
+}
+```
+
 ## objective
 
 * support legacy Windows XP `ZipCrypto` archives in `ShiftJIS`

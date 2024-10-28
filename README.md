@@ -5,8 +5,8 @@
  ```json
 {
 	"dependencies": {
-		"legacy-zip": {
-			"github": "miyako/legacy-zip",
+		"LegacyZip": {
+			"github": "miyako/LegacyZip",
 			"version": "^1.0.0"
 		}
 	}

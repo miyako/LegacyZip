@@ -11,4 +11,4 @@
 
 ### note 
 
-grand Full Disk Accress to **Visual Studio Code**
+grand `Full Disk Accress` to Visual Studio Code

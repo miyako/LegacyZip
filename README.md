@@ -7,4 +7,4 @@
 ### encryption
 
 * use https://github.com/hillu/go-archive-zip-crypto for `ZipCrypto`
-* use https://github.com/noridas80/zi18np/tree/master/src/zi18np for `ShiftJIS`
+* use https://github.com/noridas80/zi18np for `ShiftJIS`

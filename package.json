@@ -1,0 +1,21 @@
+{
+  "name": "legacy-zip",
+  "description": "support legacy Windows XP ZipCrypto archives in ShiftJIS",
+  "author": [
+    "Alex Mullins <jalexmullins91@gmail.com>",
+    "Yakub Kristianto",
+    "Hilko Bengen <bengen--github@hilluzination.de>",
+    "zi18np",
+    "Keisuke Miyako <keisuke.miyako@4D.com>"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/miyako/legacy-zip",
+  "version": "1.0.0",
+  "tool": {
+    "platform": "macos",
+    "branch": "20.x",
+    "version": "20.5",
+    "build": "latest",
+    "arch": "arm"
+  }
+}

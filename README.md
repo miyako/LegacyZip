@@ -79,14 +79,12 @@ zip -src "path.zip" \
     -method deflate
 ```
 
-default values
-
-|flag|value|
-|:-:|:-:|
-|cp932|false|
-|unzip|false|
-|src||
-|dst||
-|password||
-|encryption (requires password)|zipcrypto|
-|method|deflate|
+|flag|default|other|
+|:-|:-:|:-:|
+|cp932|false|true|
+|unzip|false|true|
+|src|||
+|dst|||
+|password|||
+|encryption (requires password)|zipcrypto|aes128 aes192 aes256|
+|method|deflate|store|

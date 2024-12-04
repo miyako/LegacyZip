@@ -1,10 +1,10 @@
 Class extends _CLI
 
-Class constructor()
+Class constructor($controller : 4D:C1709.Class)
 	
-	Super:C1705("zip"; cs:C1710._LegacyZip_Controller)
+	Super:C1705("zip"; $controller=Null:C1517 ? cs:C1710._LegacyZip_Controller : $controller)
 	
-Function _terminate()
+Function terminate()
 	
 	This:C1470.controller.terminate()
 	

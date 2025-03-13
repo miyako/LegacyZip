@@ -12,7 +12,7 @@
 	"dependencies": {
 		"LegacyZip": {
 			"github": "miyako/LegacyZip",
-			"version": "*"
+			"version": "latest"
 		}
 	}
 }
